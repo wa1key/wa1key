@@ -8,13 +8,13 @@
 
 ## 下載地址
 
-https://github.com/wa1key/wa1key/releases/download/1.1.2/wa1key1.1.2.zip
+https://www.wa1key.com/wa1key3.0.zip
 
 ## 討論組
 
 我創建了一個discord群組，歡迎大家一起進來溝通
 
-Discord:https://discord.gg/MfNA4gbVQV
+Discord:[https://discord.gg/MfNA4gbVQV](https://discord.gg/9z7Ubbabpg)
 
 也可以直接發郵件給我，我會及時回复的，祝遊戲愉快
 
